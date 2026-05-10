@@ -6,5 +6,5 @@
 -E instalando o bower dentro das pastas para arrumar a formatação da pagina.
 -Servidores rodanda.
 ![alt text](image.png)
--Instalmos o express-generator - para habilitar a rodas paginas ao mesmo tempo.
+- Instalmos o express-generator - para habilitar a rodas paginas ao mesmo tempo.
 ![alt text](image-1.png)
