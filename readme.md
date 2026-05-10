@@ -13,3 +13,7 @@
 - Instalando o Restify
 - aprendendo Restify - é um framework escrito - web server 
 - O Restify é um framework para Node.js focado exclusivamente na construção de APIs RESTful robustas e de alto desempenho
+
+## 81. U03 - Ajax com XMLHttpRequest
+- Ajax - tecnologia assincrona (Tudo que é feito no site ele te da um retorno)
+- XHR - XML / HTTP Request - Metodo do javaScript por fazer o Ajax rodar.
