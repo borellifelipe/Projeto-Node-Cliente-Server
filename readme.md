@@ -23,4 +23,7 @@
 
 ## 83. U05 - Refatorando para uma classe HttpRequest
 - Melhorando o codigo de XHR com orientação a objeto deixando mais legivel.
-- Crie uma classe HttpRequest para tratar as requisições, agora no meu controle basta eu chamar o método estático da classe passar a URL e então da promessa percorrendo os usuários , criando uma instância dos usuários e adicionando na tela para o cliente
+- Crie uma classe HttpRequest para tratar as requisições, agora no meu controle basta eu chamar o método estático da classe passar a URL e então da promessa percorrendo os usuários , criando uma instância dos usuários e adicionando na tela para o cliente.
+
+## 84. U06 - Consumindo Rotas, POST, PUT e DELETE com Restify
+- Na pasta routes/users.js criei o restante das rotas para post, delete, put e get para buscar apenas um usuário.
