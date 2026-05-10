@@ -20,3 +20,7 @@
 
 ## 82. U04 - Adequando os dados salvos no servidor RESTful
 - Alterei os dados no servidor para que obtenham a forma correta para poder extrair a api
+
+## 83. U05 - Refatorando para uma classe HttpRequest
+- Melhorando o codigo de XHR com orientação a objeto deixando mais legivel.
+- Crie uma classe HttpRequest para tratar as requisições, agora no meu controle basta eu chamar o método estático da classe passar a URL e então da promessa percorrendo os usuários , criando uma instância dos usuários e adicionando na tela para o cliente
