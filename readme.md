@@ -17,3 +17,6 @@
 ## 81. U03 - Ajax com XMLHttpRequest
 - Ajax - tecnologia assincrona (Tudo que é feito no site ele te da um retorno)
 - XHR - XML / HTTP Request - Metodo do javaScript por fazer o Ajax rodar.
+
+## 82. U04 - Adequando os dados salvos no servidor RESTful
+- Alterei os dados no servidor para que obtenham a forma correta para poder extrair a api

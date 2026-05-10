@@ -1,0 +1,12 @@
+{
+  "name": "projeto-node-cliente-server",
+  "version": "1.0.0",
+  "description": "- Instalando o npm install -g bower.\r - Baixamos as pastas base para iniciarmos o curso.\r -E instalando o bower dentro das pastas para arrumar a formatação da pagina.\r -Servidores rodanda.\r ![alt text](image.png)\r - Instalmos o express-generator - para habilitar a rodas paginas ao mesmo tempo.\r ![alt text](image-1.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
