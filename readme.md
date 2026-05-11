@@ -36,3 +36,6 @@
 
 ## 87. U09 - Alterando o limite de bytes enviados por POST
 - Ajustai o limite de bytes para que uma foto possa ser enviada para o servidor. (50mb)
+
+## 88. U10 - Refatorando para fetch API
+- Mudamos a forma de escrever requisições de ajax para fetch, a troca foi feita para deixar o codigo mais flexivel e robusta para mudanças.
