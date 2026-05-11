@@ -30,3 +30,6 @@
 
 ## 85. U07 - Usando Ajax com método POST e PUT
 - No metodo save() que esta na classe users, estou retornando uma promise, se o user tiver id realizo o put dele, caso ele não tenha id realizo o post, se a requisição der certo, atualizo os dados dos usuarios com a resposta do servidor. No UserController.js agora o save vai ter o then que recebe o user e executa a inclusão do usuário na tela.
+
+## 86. U08 - Usando Ajax com método DELETE
+- No models do user retornei uma promessa do delete, chamo esta promessa no user controller para retornars na tela para o cliente
