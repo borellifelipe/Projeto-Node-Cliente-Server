@@ -27,3 +27,6 @@
 
 ## 84. U06 - Consumindo Rotas, POST, PUT e DELETE com Restify
 - Na pasta routes/users.js criei o restante das rotas para post, delete, put e get para buscar apenas um usuário.
+
+## 85. U07 - Usando Ajax com método POST e PUT
+- No metodo save() que esta na classe users, estou retornando uma promise, se o user tiver id realizo o put dele, caso ele não tenha id realizo o post, se a requisição der certo, atualizo os dados dos usuarios com a resposta do servidor. No UserController.js agora o save vai ter o then que recebe o user e executa a inclusão do usuário na tela.
