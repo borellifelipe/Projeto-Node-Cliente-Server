@@ -1,4 +1,4 @@
-# Curso NodeJS - JavasScript no Back-End (Curso Iniciado)
+# Curso NodeJS - JavasScript no Back-End
 
 ## 79. U01 - Criando novo projeto com Express Generat
 - Instalando o npm install -g bower.
