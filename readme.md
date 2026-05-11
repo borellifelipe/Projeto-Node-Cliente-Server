@@ -33,3 +33,6 @@
 
 ## 86. U08 - Usando Ajax com método DELETE
 - No models do user retornei uma promessa do delete, chamo esta promessa no user controller para retornars na tela para o cliente
+
+## 87. U09 - Alterando o limite de bytes enviados por POST
+- Ajustai o limite de bytes para que uma foto possa ser enviada para o servidor. (50mb)
