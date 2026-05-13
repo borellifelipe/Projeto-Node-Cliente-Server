@@ -39,3 +39,7 @@
 
 ## 88. U10 - Refatorando para fetch API
 - Mudamos a forma de escrever requisições de ajax para fetch, a troca foi feita para deixar o codigo mais flexivel e robusta para mudanças.
+
+## Porjeto Finalizado.
+- Prints das portas 3000 e 4000 rodando
+![alt text](image-2.png)
